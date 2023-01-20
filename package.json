@@ -1,0 +1,15 @@
+{
+  "name": "rename-files-with-uuid",
+  "version": "1.0.0",
+  "description": "Rename files with uuid",
+  "main": "index.js",
+  "author": "Mukul Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "tsconfig.json": "^1.0.11",
+    "typescript": "^4.9.4"
+  }
+}
