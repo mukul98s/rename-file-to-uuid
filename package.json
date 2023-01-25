@@ -1,7 +1,7 @@
 {
-  "name": "rename-files-with-uuid",
+  "name": "rename-to-uuid",
   "version": "1.0.0",
-  "description": "Rename files with uuid",
+  "description": "Rename files names with uuid",
   "main": "src/index.js",
   "author": "Mukul Sharma",
   "license": "MIT",
@@ -11,5 +11,17 @@
   "dependencies": {
     "inquirer": "^9.1.4",
     "uuid": "^9.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukul98s/rename-file-to-uuid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mukul98s/rename-file-to-uuid/issues"
+  },
+  "homepage": "https://github.com/mukul98s/rename-file-to-uuid#readme",
+  "keywords": [
+    "uuid",
+    "rename"
+  ]
 }
