@@ -1,12 +1,10 @@
-# rename-file-to-uuid
+# rename-to-uuid
 
 ### How to use this
 
 ---
 
-- clone the repository
-- navigate to rename-file-to-uuid using `cd rename-file-to-uuid`
-- run `node index.js`
-- It'll ask you for the folder path
-- enter the full path of the folder
-- it'll rename all the files inside the folder with uuid
+1. install this package globally using `npm i -g rename-to-uuid`
+2. now run `npx rename-to-uuid`
+3. enter the folder path and confirm.
+4. done. 
