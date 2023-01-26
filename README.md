@@ -14,7 +14,6 @@ Install using npm
 
 ```bash
 npm i -g rename-to-uuid
-rename-to-uuid
 ```
 
 Run after installing it globally

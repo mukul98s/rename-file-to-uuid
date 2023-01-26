@@ -13,7 +13,8 @@ const { readdir, rename } = require("fs/promises");
     {
       type: "input",
       name: "file_path",
-      message: "Enter the path of the folder",
+      message:
+        "Enter the path of the folder in which files need to be renamed \n",
     },
   ]);
 
